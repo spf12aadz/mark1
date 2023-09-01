@@ -5,7 +5,7 @@
  <body>
 	<p>Hello World</p>
 	<?php
-		print "Kaiwikai";
+		print "Kaiwikai  88";
 	?>
  </body>
 </html>
